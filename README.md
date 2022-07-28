@@ -1,7 +1,6 @@
-- 👋 Hi, My name is Pedro Nasser
-- 📫 Text me on 780.203.9546
+- 👋 Hi, My name is Pedro Nasser, I live in Edmonton, Alberta. 
+- 📫 How to reach me: 780.203.9546
+- JavaScript, CSS and PHP starter (100 days, so far) Updated 2022/07
+- Python starter (50 days) - Halted, in order to grasp web development first
+- Graduated in 2011 (a century ago for Computer Science, I know). Java was the main language.
 
-<!---
-nasseraguiarfilho/nasseraguiarfilho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
